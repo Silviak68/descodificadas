@@ -1,0 +1,39 @@
+
+
+
+
+
+div{
+    height: 350px;
+    width: 350px;
+background-image: url(https://hortadamaria.com/wp-content/uploads/2020/02/1802-Flor-de-amor-perfeito.jpg);
+background-size: cover;
+
+border-width:10px;
+    border-color:rgba(12, 204, 238, 0.692);
+border-style:dashed;
+    border-radius: 50%;
+
+    box-shadow: inset 7px 15px 21px 10px; 
+    color: rgb(226, 43, 180);
+
+
+  outline-width: 20px;  
+  outline-color: blueviolet;
+  outline-style:groove;
+    
+  
+margin: auto;
+margin-top:150px;
+
+}
+    
+
+p {padding-top: 70px;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px; 
+    color: rgba(249, 253, 28, 0.979)
+    
+    
+}
